@@ -31,6 +31,7 @@ The application features a welcome or index page, as well as the note taking pag
 [https://shrouded-beyond-55406.herokuapp.com/](https://shrouded-beyond-55406.herokuapp.com/)
 
 ![image](./public/assets/images/screenshot1.png)
+![image](./public/assets/images/screenshot2.png)
 
 ### Contact:
 
